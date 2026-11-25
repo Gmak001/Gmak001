@@ -29,9 +29,13 @@ Hi, I'm Armaghan, a software engineer based in Pakistan. I build the backend beh
 
 | AI & RAG Systems | Real-Time APIs | Data Pipelines |
 |:----------------:|:--------------:|:--------------:|
-| Retrieval-augmented generation with LLMs | Fast, reliable services built with FastAPI and Go | Clean, dependable data flow from source to model |
+| Retrieval-augmented generation that grounds LLM answers in your own data | Fast, reliable services built with FastAPI and Go | Clean, dependable data flow from source to model |
 
-**Education:** BS Computer Science, Szabist
+<div align="center">
+
+**Education** &nbsp;|&nbsp; BS Computer Science, SZABIST
+
+</div>
 
 ---
 
